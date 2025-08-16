@@ -10,7 +10,7 @@ The prompt used in the study can be found at [inference.py](inference.py). It ca
 ## Evaluation dataset
 
 
-Evaluation dataset of exercises provided by Piret, Nizet & Bourgueois (1996) it's available in the [sca_eval_dataset.json](https://github.com/StructuralAnalysisProject/llm-structural-content-analysis/blob/main/sca_eval_dataset.json)
+Evaluation dataset of exercises provided by Piret, Nizet & Bourgueois (1996) it's available in the [sca_eval_dataset.json](sca_eval_dataset.json)
 
 > Piret, A., Nizet, J., & Bourgeois, E. (1996). L'analyse structurale. Une méthode d'analyse de contenu pour les sciences humaines, Bruxelles, De Boeck. https://researchportal.unamur.be/en/publications/lanalyse-structurale-une-m%C3%A9thode-danalyse-de-contenu-pour-les-sci
 
@@ -53,7 +53,10 @@ Inference loops were runned one by one, so it's results are in three different f
 * Iteration 2: [models_inference_dataset_iteation_1.json](models_inference_dataset_iteation_2.json)
 * Iteration 3: [models_inference_dataset_iteation_1.json](models_inference_dataset_iteation_3.json)
 
-## Evaluation code
+## Evaluation
+
+As explained in the paper, the assessment uses cosine similarity to measure the semantic overlap between the LLM-generated analysis and the ground truth. The code provided in [evaluation.py](evaluation.py) implements this process, handling differences in data schemas in the [evaluation dataset](sca_eval_dataset.json) and the [model inference dataset](models_inference_dataset_iteration_1.json). To obtain embeddings of both the ground truth and the model analysis, it uses a BERT model (`dbmdz/bert-base-french-europeana-cased`), which requires a GPU to run efficiently. Otherwise, the process will take too long.
+
 
 
 
