@@ -1,0 +1,1543 @@
+[
+    {
+        "exercise": 1,
+        "material": "(interview d'un chrétien, présentée et analysée en Hiernaux et Ganty, 1977) Le ciel est le symbole de la spiritualité, parce qu'il oblige à lever le regard vers le haut; la terre, qui ramène les yeux vers le bas, est par contre le symbole de la matérialité.",
+        "correction": {
+            "axes_semantiques": [
+                {
+                    "axe": "les symboles",
+                    "disjonction": [
+                        {
+                            "terme_a": "le ciel",
+                            "indice_valeur_a": null,
+                            "terme_b": "la terre",
+                            "indice_valeur_b": null
+                        }
+                    ]
+                },
+                {
+                    "axe": "les options philosophiques",
+                    "disjonction": [
+                        {
+                            "terme_a": "spiritualité",
+                            "indice_valeur_a": null,
+                            "terme_b": "matérialité",
+                            "indice_valeur_b": null
+                        }
+                    ]
+                },
+                {
+                    "axe": "les directions du regard",
+                    "disjonction": [
+                        {
+                            "terme_a": "vers le haut",
+                            "indice_valeur_a": null,
+                            "terme_b": "vers le bas",
+                            "indice_valeur_b": null
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "exercise": 2,
+        "material": "(extrait d'une interview du président Reagan au sujet de propositions soviétiques sur le désarmement) Nous étudions cette proposition pour voir si c'est une proposition réelle ou si c'est de la propagande.",
+        "correction": {
+            "axes_semantiques": [
+                {
+                    "axe": "cette proposition",
+                    "disjonction": [
+                        {
+                            "terme_a": "une proposition réelle",
+                            "indice_valeur_a": null,
+                            "terme_b": "de la propagande",
+                            "indice_valeur_b": null
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "exercise": 4,
+        "material": "(extrait de l'interview d'un jeune, présenté et analysé in Nizet et Hieraux, 1984) Celui qui va à l'école, il ne gagne rien. A ce moment-là, ça ne me plaisait pas fort. J'avais envie de gagner de l'argent. C'est pour ça que j'ai été travailler.",
+        "correction": {
+            "axes_semantiques": [
+                {
+                    "axe": "(les activités contraintes des jeunes)",
+                    "disjonction": [
+                        {
+                            "terme_a": "l'école",
+                            "indice_valeur_a": "+",
+                            "terme_b": "travailler",
+                            "indice_valeur_b": "-"
+                        }
+                    ]
+                },
+                {
+                    "axe": "(les rémunérations)",
+                    "disjonction": [
+                        {
+                            "terme_a": "ne rien gagner du tout",
+                            "indice_valeur_a": "-",
+                            "terme_b": "gagner de l'argent",
+                            "indice_valeur_b": "+"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "exercise": 5,
+        "material": "(interview d'un jeune, présenté et analysé in Maroy et Ruquoy, 1980) Je préfère les Beatles, groupe confirmé, aux derniers succès du hit-parade.",
+        "correction": {
+            "axes_semantiques": [
+                {
+                    "axe": "(les genres de musique)",
+                    "disjonction": [
+                        {
+                            "terme_a": "les Beatles, groupe confirmé",
+                            "indice_valeur_a": null,
+                            "terme_b": "les derniers succès du hit-parade",
+                            "indice_valeur_b": null
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "exercise": 6,
+        "material": "(publicité) VALVERT. L'eau à l'état sauvage.",
+        "correction": {
+            "axes_semantiques": [
+                {
+                    "axe": "les états de l'eau",
+                    "disjonction": [
+                        {
+                            "terme_a": "sauvage",
+                            "indice_valeur_a": null,
+                            "terme_b": "(altérée par l'homme)",
+                            "indice_valeur_b": null
+                        }
+                    ]
+                },
+                {
+                    "axe": "les eaux",
+                    "disjonction": [
+                        {
+                            "terme_a": "valvert",
+                            "indice_valeur_a": null,
+                            "terme_b": "(les autres marques)",
+                            "indice_valeur_b": null
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "exercise": 7,
+        "material": "(interview d'une assistante sociale) Il y a en tout cas une approche [du travail social] à laquelle je suis beaucoup plus sensible, c'est une approche un peu souple des situations, où on part quand même des préoccupations des gens concernés (...). Si on conçoit, par exemple, une famille qui a des difficultés financières, on peut imaginer (...) une gestion du budget où c'est en fait l'A.S. qui tous les mois va aller avec son autorité chercher les virements (...). Ça, je dirais, c'est une approche un peu de type contrôlé et directive. Une même A.S. peut aller dans la famille chaque mois et voir avec eux ... Gérer et leur apprendre à gérer eux-mêmes et à faire eux-mêmes leurs virements.",
+        "correction": {
+            "axes_semantiques": [
+                {
+                    "axe": "les approches du travail social",
+                    "disjonction": [
+                        {
+                            "terme_a": "un peu souple",
+                            "indice_valeur_a": null,
+                            "terme_b": "un peu de type contrôle et directive",
+                            "indice_valeur_b": null
+                        }
+                    ]
+                },
+                {
+                    "axe": "les types de gestion",
+                    "disjonction": [
+                        {
+                            "terme_a": "l'A.S. va chercher les virements et gère",
+                            "indice_valeur_a": null,
+                            "terme_b": "l'A.S. apprend à gérer eux-mêmes et à faire eux-mêmes leurs virements",
+                            "indice_valeur_b": null
+                        }
+                    ]
+                },
+                {
+                    "axe": "(attitude par rapport aux préoccupations des gens)",
+                    "disjonction": [
+                        {
+                            "terme_a": "on part des préoccupations des gens concernés",
+                            "indice_valeur_a": null,
+                            "terme_b": "(on ne part pas des préoccupations des gens concernés)",
+                            "indice_valeur_b": null
+                        }
+                    ]
+                },
+                {
+                    "axe": "(les sensibilités à l'approche)",
+                    "disjonction": [
+                        {
+                            "terme_a": "plus sensible",
+                            "indice_valeur_a": null,
+                            "terme_b": "(moins sensible)",
+                            "indice_valeur_b": null
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "exercise": 8,
+        "material": "(Grize, 1989) Il est bien connu qu'on n'écrit pas comme on parle, et qu'on ne parle pas au téléphone comme en tête-à-tête.",
+        "correction": {
+            "axes_semantiques": [
+                {
+                    "axe": "(les manières de s'exprimer)",
+                    "disjonction": [
+                        {
+                            "terme_a": "écrire",
+                            "indice_valeur_a": null,
+                            "terme_b": "parler",
+                            "indice_valeur_b": null
+                        }
+                    ]
+                },
+                {
+                    "axe": "parler",
+                    "disjonction": [
+                        {
+                            "terme_a": "au téléphone",
+                            "indice_valeur_a": null,
+                            "terme_b": "en tête-à-tête",
+                            "indice_valeur_b": null
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "exercise": 9,
+        "material": "(extrait de la synthèse des travaux de la commission des Aînés au congrès de la Ligue des Familles, octobre 1986) Les grands-mères d'aujourd'hui ne sont plus les grands-mères d'hier (...). Leur présent est souvent rempli par d'autres activités que les seules tâches ménagères et familiales (...).",
+        "correction": {
+            "axes_semantiques": [
+                {
+                    "axe": "ce qui occupe le présent des grands-mères",
+                    "disjonction": [
+                        {
+                            "terme_a": "les seules tâches ménagères et familiales",
+                            "indice_valeur_a": null,
+                            "terme_b": "les tâches ménagères et familiales et d'autres activités",
+                            "indice_valeur_b": null
+                        }
+                    ]
+                },
+                {
+                    "axe": "les grands-mères",
+                    "disjonction": [
+                        {
+                            "terme_a": "d'hier",
+                            "indice_valeur_a": null,
+                            "terme_b": "d'aujourd'hui",
+                            "indice_valeur_b": null
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "exercise": 10,
+        "material": "(dicton) Mieux vaut prévenir que guérir.",
+        "correction": {
+            "axes_semantiques": [
+                {
+                    "axe": "(les attitudes possibles face à un problème)",
+                    "disjonction": [
+                        {
+                            "terme_a": "prévenir",
+                            "indice_valeur_a": "+",
+                            "terme_b": "guérir",
+                            "indice_valeur_b": "-"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "exercise": 11,
+        "material": "(interview d’un enseignant in Charlier, opp. cit.) Là, on a un bon inspecteur (...). Il met un peu de côté cette notion de programme pour mettre l'accent sur les travaux personnels.",
+        "correction": {
+            "axes_semantiques": [
+                {
+                    "axe": "(les attitudes par rapport à la notion de programme)",
+                    "disjonction": [
+                        {
+                            "terme_a": "la mattre n peu de côte",
+                            "indice_valeur_a": "+",
+                            "terme_b": "(insister dessus)",
+                            "indice_valeur_b": "-"
+                        }
+                    ]
+                },
+                {
+                    "axe": "ce sur quoi l'inspecteur met l'accent",
+                    "disjonction": [
+                        {
+                            "terme_a": "les travaux personnels",
+                            "indice_valeur_a": "+",
+                            "terme_b": "(le respect du programme)",
+                            "indice_valeur_b": "-"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "exercise": 12,
+        "material": "(interview d’un enseignant in Charlier, ibid.) J'ai compris que c'était au niveau de nos mentalités que ça devait changer.",
+        "correction": {
+            "axes_semantiques": [
+                {
+                    "axe": "(les niveaux de changement)",
+                    "disjonction": [
+                        {
+                            "terme_a": "nos mentalités",
+                            "indice_valeur_a": "+",
+                            "terme_b": "nos comportments",
+                            "indice_valeur_b": "-"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "exercise": 13,
+        "material": "(interview d'un jeune, présentée et analysée in Maroy et Ruquoy, 1980) Tout ce qui est nécessaire, ce sont mes parents qui achètent; ce qui est superflu, c'est moi qui achète.",
+        "correction": {
+            "axes_semantiques": [
+                {
+                    "axe": "(les acheteurs)",
+                    "disjonction": [
+                        {
+                            "terme_a": "moi",
+                            "indice_valeur_a": null,
+                            "terme_b": "mes parents",
+                            "indice_valeur_b": null
+                        }
+                    ]
+                },
+                {
+                    "axe": "(les achats)",
+                    "disjonction": [
+                        {
+                            "terme_a": "superflu",
+                            "indice_valeur_a": null,
+                            "terme_b": "nécessaire",
+                            "indice_valeur_b": null
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "exercise": 14,
+        "material": "(dicton) Les paroles sont femelles et les faits mâles.",
+        "correction": {
+            "axes_semantiques": [
+                {
+                    "axe": "(les sexes)",
+                    "disjonction": [
+                        {
+                            "terme_a": "mâle",
+                            "indice_valeur_a": null,
+                            "terme_b": "femelle",
+                            "indice_valeur_b": null
+                        }
+                    ]
+                },
+                {
+                    "axe": "(les modes d'action)",
+                    "disjonction": [
+                        {
+                            "terme_a": "les faits",
+                            "indice_valeur_a": null,
+                            "terme_b": "les paroles",
+                            "indice_valeur_b": null
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "exercise": 15,
+        "material": "(publicité) Douwe Egberts DECAFE. Tout le plaisir du café, sans caféine.",
+        "correction": {
+            "axes_semantiques": [
+                {
+                    "axe": "(le plaisir offert)",
+                    "disjonction": [
+                        {
+                            "terme_a": "tout le plaisir du café (A1)",
+                            "indice_valeur_a": "+",
+                            "terme_b": "(pas tout le plaisir du café) (B1)",
+                            "indice_valeur_b": "-"
+                        }
+                    ]
+                },
+                {
+                    "axe": "(les modes d'action)",
+                    "disjonction": [
+                        {
+                            "terme_a": "sans caféine (A2)",
+                            "indice_valeur_a": "+",
+                            "terme_b": "(avec caféine) (B2)",
+                            "indice_valeur_b": "-"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "exercise": 16,
+        "material": "(extrait d'un cours de religion, présenté et analysé in Hiernaux, 1977) Deux destinées différentes : L'homme : est destiné à l'action, à l'exploration de la matière. Il est fait pour bâtir, surtout pour faire grandir le monde matériel. Il sera donc porté spontanément vers l'extérieur, vers la matière : 'l'homme s'intéresse à quelque chose.' La femme : est destinée à aimer et à éduquer. Elle est faite pour élever, ce mot étant compris dans le sens d'élévation, c'est-à-dire d'aider un être faible à devenir adulte dans toute sa personne. Elle est faite surtout pour construire et faire grandir le monde humain. Elle sera donc tournée spontanément vers l'intérieur, vers l'être vivant : la femme s'intéresse à quelqu'un. L'homme possède un ensemble de moyens pour atteindre ses fins : psychisme finalisateur. La femme transforme le monde en un milieu de valeurs pour entrer en relation : psychisme valorisant.",
+        "correction": {
+            "axes_semantiques": [
+                {
+                    "axe": "(les sexes)",
+                    "disjonction": [
+                        {
+                            "terme_a": "l'homme",
+                            "indice_valeur_a": null,
+                            "terme_b": "la femme",
+                            "indice_valeur_b": null
+                        }
+                    ]
+                },
+                {
+                    "axe": "les domaines d'intérêt",
+                    "disjonction": [
+                        {
+                            "terme_a": "quelque chose",
+                            "indice_valeur_a": null,
+                            "terme_b": "quelqu'un",
+                            "indice_valeur_b": null
+                        }
+                    ]
+                },
+                {
+                    "axe": "le monde à faire grandir",
+                    "disjonction": [
+                        {
+                            "terme_a": "matériel",
+                            "indice_valeur_a": null,
+                            "terme_b": "humain",
+                            "indice_valeur_b": null
+                        }
+                    ]
+                },
+                {
+                    "axe": "les lieux vers lesquels on est porté, tourné spontanément",
+                    "disjonction": [
+                        {
+                            "terme_a": "matière",
+                            "indice_valeur_a": null,
+                            "terme_b": "vie",
+                            "indice_valeur_b": null
+                        }
+                    ]
+                },
+                {
+                    "axe": "(les domaines vers lesquels on est porté, tourné spontanément)",
+                    "disjonction": [
+                        {
+                            "terme_a": "l'intérieur",
+                            "indice_valeur_a": null,
+                            "terme_b": "l'extérieur",
+                            "indice_valeur_b": null
+                        }
+                    ]
+                },
+                {
+                    "axe": "les psychismes",
+                    "disjonction": [
+                        {
+                            "terme_a": "finalisateur",
+                            "indice_valeur_a": null,
+                            "terme_b": "valorisant",
+                            "indice_valeur_b": null
+                        }
+                    ]
+                },
+                {
+                    "axe": "les destinées",
+                    "disjonction": [
+                        {
+                            "terme_a": "l'action, l'exploitation de la matière",
+                            "indice_valeur_a": null,
+                            "terme_b": "aimer et éduquer",
+                            "indice_valeur_b": null
+                        }
+                    ]
+                },
+                {
+                    "axe": "ce pour quoi on est fait",
+                    "disjonction": [
+                        {
+                            "terme_a": "bâtir",
+                            "indice_valeur_a": null,
+                            "terme_b": "élever",
+                            "indice_valeur_b": null
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "exercise": 17,
+        "material": "(interview d'Arnold Schwarzenegger à propos du film Last Action Hero) Il était temps de dire (...) que le sang de l'écran est du jus de cerise, mais que le sang qui coule dans les rues est atrocement réel.",
+        "correction": {
+            "axes_semantiques": [
+                {
+                    "axe": "(où coule le sang)",
+                    "disjonction": [
+                        {
+                            "terme_a": "à l'écran",
+                            "indice_valeur_a": null,
+                            "terme_b": "dans les rues",
+                            "indice_valeur_b": null
+                        }
+                    ]
+                },
+                {
+                    "axe": "(nature du sang)",
+                    "disjonction": [
+                        {
+                            "terme_a": "jus de cerise",
+                            "indice_valeur_a": null,
+                            "terme_b": "atrocement réel",
+                            "indice_valeur_b": null
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "exercise": 18,
+        "material": "(interview d'un syndicaliste, in Bourdieu, 1993) Le chômage nous divise et fait ressortir tout ce qu'il y a de plus malsain en nous, l'individualisme, la jalousie, l'envie. Le travail nous unit, la fraternité, la solidarité.",
+        "correction": {
+            "axes_semantiques": [
+                {
+                    "axe": "(le statut du travailleur)",
+                    "disjonction": [
+                        {
+                            "terme_a": "le chômage",
+                            "indice_valeur_a": "-",
+                            "terme_b": "le travail",
+                            "indice_valeur_b": "+"
+                        }
+                    ]
+                },
+                {
+                    "axe": "(l'action du statut)",
+                    "disjonction": [
+                        {
+                            "terme_a": "nous divise",
+                            "indice_valeur_a": "-",
+                            "terme_b": "nous unit",
+                            "indice_valeur_b": "+"
+                        }
+                    ]
+                },
+                {
+                    "axe": "(l'effet du statut)",
+                    "disjonction": [
+                        {
+                            "terme_a": "fait ressortir ce qu'il y a de plus malsain",
+                            "indice_valeur_a": "-",
+                            "terme_b": "(fait ressortir le meilleur de nous)",
+                            "indice_valeur_b": "+"
+                        }
+                    ]
+                },
+                {
+                    "axe": "(les valeurs par rapport à autrui)",
+                    "disjonction": [
+                        {
+                            "terme_a": "l'individualisme",
+                            "indice_valeur_a": "-",
+                            "terme_b": "la solidarité, la fraternité",
+                            "indice_valeur_b": "+"
+                        }
+                    ]
+                },
+                {
+                    "axe": "les sentiments",
+                    "disjonction": [
+                        {
+                            "terme_a": "la jalousie, l'envie",
+                            "indice_valeur_a": "-",
+                            "terme_b": "la générosité, le partage",
+                            "indice_valeur_b": "+"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "exercise": 19,
+        "material": "(une psychologue s'exprime au sujet du veuvage) Ceux qui ne s'en tirent pas bien, (c'est) celui ou celle qui a tout misé sur l'autre, qui n'a vécu que dans le sillage de l'autre, s'est perdu dans l'autre.",
+        "correction": {
+            "axes_semantiques": [
+                {
+                    "axe": "(réaction au veuvage)",
+                    "disjonction": [
+                        {
+                            "terme_a": "(ceux qui s'en tirent bien)",
+                            "indice_valeur_a": "+",
+                            "terme_b": "(ceux qui ne s'en tirent pas bien)",
+                            "indice_valeur_b": "-"
+                        }
+                    ]
+                },
+                {
+                    "axe": "(attitude pendant la vie commune)",
+                    "disjonction": [
+                        {
+                            "terme_a": "(ne pas tout miser sur l'autre)",
+                            "indice_valeur_a": "+",
+                            "terme_b": "tout miser sur l'autre",
+                            "indice_valeur_b": "-"
+                        }
+                    ]
+                },
+                {
+                    "axe": "(attitude pendant la vie commune)",
+                    "disjonction": [
+                        {
+                            "terme_a": "(ne pas vivre que dans le sillage de l'autre)",
+                            "indice_valeur_a": "+",
+                            "terme_b": "ne vivre que dans le sillage de l'autre",
+                            "indice_valeur_b": "-"
+                        }
+                    ]
+                },
+                {
+                    "axe": "(attitude pendant la vie commune)",
+                    "disjonction": [
+                        {
+                            "terme_a": "ne pas se perdre dans l'autre",
+                            "indice_valeur_a": "+",
+                            "terme_b": "se perdre dans l'autre",
+                            "indice_valeur_b": "-"
+                        }
+                    ]
+                },
+                {
+                    "axe": "(attitude pendant la vie commune)",
+                    "disjonction": [
+                        {
+                            "terme_a": "(ne pas vivre uniquement en fonction de l'autre)",
+                            "indice_valeur_a": "+",
+                            "terme_b": "vivre uniquement en fonction de l'autre",
+                            "indice_valeur_b": "-"
+                        }
+                    ]
+                },
+                {
+                    "axe": "(réaction au veuvage)",
+                    "disjonction": [
+                        {
+                            "terme_a": "(ceux qui s'en tirent bien)",
+                            "indice_valeur_a": "+",
+                            "terme_b": "(ceux qui ne s'en tirent pas bien)",
+                            "indice_valeur_b": "-"
+                        }
+                    ]
+                },
+                {
+                    "axe": "(attitude pendant la vie commune)",
+                    "disjonction": [
+                        {
+                            "terme_a": "(ne pas vivre uniquement en fonction de l'autre)",
+                            "indice_valeur_a": "+",
+                            "terme_b": "vivre uniquement en fonction de l'autre",
+                            "indice_valeur_b": "-"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "exercise": 20,
+        "material": "(interview d'un jeune, présentée et analysée en Maroy et Ruquoy, 1980) Je préfère me débrouiller tout seul plutôt que de suivre un professeur qui m'orienterait forcément dans une certaine direction (...). J'aime bien apprendre par moi-même; je n'aimerais pas devoir suivre quelqu'un qui m'apprendrait. De toute façon, comme cela, on apprend plus, on joue mieux. On joue plus spontanément quand on joue comme ça et puis on ne se sent pas bloqué à un certain stade. Beaucoup de gens qui vont à l'Académie, à partir d'une deuxième ou une troisième année, se sentent bloqués et sentent qu'ils ne pourront plus progresser. Quand on apprend seul, c'est toujours illimité.",
+        "correction": {
+            "axes_semantiques": [
+                {
+                    "axe": "X1 (manières d'apprendre à jouer)",
+                    "disjonction": [
+                        {
+                            "terme_a": "se débrouiller tout seul",
+                            "indice_valeur_a": "+",
+                            "terme_b": "suivre un professeur",
+                            "indice_valeur_b": "-"
+                        }
+                    ]
+                },
+                {
+                    "axe": "X2 (manières de l'apprentissage)",
+                    "disjonction": [
+                        {
+                            "terme_a": "apprendre par soi-même",
+                            "indice_valeur_a": "+",
+                            "terme_b": "devoir suivre quelqu'un qui m'apprendrait",
+                            "indice_valeur_b": "-"
+                        }
+                    ]
+                },
+                {
+                    "axe": "X3 (qualité de l'apprentissage)",
+                    "disjonction": [
+                        {
+                            "terme_a": "apprendre plus",
+                            "indice_valeur_a": "+",
+                            "terme_b": "(apprendre moins)",
+                            "indice_valeur_b": "-"
+                        }
+                    ]
+                },
+                {
+                    "axe": "X4 (qualité de l'apprentissage)",
+                    "disjonction": [
+                        {
+                            "terme_a": "jouer mieux",
+                            "indice_valeur_a": "+",
+                            "terme_b": "jouer moins bien",
+                            "indice_valeur_b": "-"
+                        }
+                    ]
+                },
+                {
+                    "axe": "X5 (manière de jouer)",
+                    "disjonction": [
+                        {
+                            "terme_a": "plus spontanément",
+                            "indice_valeur_a": "+",
+                            "terme_b": "(plus artificiellement)",
+                            "indice_valeur_b": "-"
+                        }
+                    ]
+                },
+                {
+                    "axe": "X6 (sentiment par rapport à la progression)",
+                    "disjonction": [
+                        {
+                            "terme_a": "on ne se sent pas bloqué",
+                            "indice_valeur_a": "+",
+                            "terme_b": "on se sent bloqué",
+                            "indice_valeur_b": "-"
+                        }
+                    ]
+                },
+                {
+                    "axe": "X7 (sentiment par rapport à la progression)",
+                    "disjonction": [
+                        {
+                            "terme_a": "(on sent qu'on peut toujours progresser)",
+                            "indice_valeur_a": "+",
+                            "terme_b": "sentir qu'on ne peut plus progresser",
+                            "indice_valeur_b": "-"
+                        }
+                    ]
+                },
+                {
+                    "axe": "X8 (possibilités de progression)",
+                    "disjonction": [
+                        {
+                            "terme_a": "illimité",
+                            "indice_valeur_a": "+",
+                            "terme_b": "(limité)",
+                            "indice_valeur_b": "-"
+                        }
+                    ]
+                },
+                {
+                    "axe": "X9 (manières d'apprendre à jouer)",
+                    "disjonction": [
+                        {
+                            "terme_a": "seul",
+                            "indice_valeur_a": "+",
+                            "terme_b": "à l'Académie",
+                            "indice_valeur_b": "-"
+                        }
+                    ]
+                },
+                {
+                    "axe": "(manières d'apprendre à jouer)",
+                    "disjonction": [
+                        {
+                            "terme_a": "par soi-même",
+                            "indice_valeur_a": "+",
+                            "terme_b": "en suivant les cours d'un professeur",
+                            "indice_valeur_b": "-"
+                        }
+                    ]
+                },
+                {
+                    "axe": "qualité de l'apprentissage",
+                    "disjonction": [
+                        {
+                            "terme_a": "on joue mieux",
+                            "indice_valeur_a": "+",
+                            "terme_b": "(on joue moins bien)",
+                            "indice_valeur_b": "-"
+                        }
+                    ]
+                },
+                {
+                    "axe": "(rapport à la progression)",
+                    "disjonction": [
+                        {
+                            "terme_a": "on peut progresser",
+                            "indice_valeur_a": "+",
+                            "terme_b": "(on finit par stagner)",
+                            "indice_valeur_b": "-"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "exercise": 21,
+        "material": "(extrait d'interview d'un jeune pour une enquête sur les usages sociaux du téléphone, in Bardin, 1989) Le téléphone permet de pouvoir communiquer avec les gens qu'on aime et qui sont loin. On préférerait aller les voir, (...), les toucher, mais on ne peut pas, et c'est dommage. C'est quand même mieux que le vide, le silence total. (...)",
+        "correction": {
+            "axes_semantiques": [
+                {
+                    "axe": "les gens qu'on aime bien",
+                    "disjonction": [
+                        {
+                            "terme_a": "(qui sont près)",
+                            "indice_valeur_a": null,
+                            "terme_b": "qui sont loin",
+                            "indice_valeur_b": null
+                        },
+                        {
+                            "terme_a": "on peut toucher, aller voir",
+                            "indice_valeur_a": null,
+                            "terme_b": "(pas de contact visuel et pas de toucher)",
+                            "indice_valeur_b": null,
+                            "disjonction": [
+                                {
+                                    "terme_a": "on peut quand même communiquer",
+                                    "indice_valeur_a": null,
+                                    "terme_b": "c'est le vide, le silence total",
+                                    "indice_valeur_b": null
+                                },
+                                {
+                                    "terme_a": "le téléphone",
+                                    "indice_valeur_a": null,
+                                    "terme_b": "(pas de téléphone)",
+                                    "indice_valeur_b": null
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "exercise": 22,
+        "material": "(vieux proverbe carolingien cité par M. Bloch, 1978 : 410) Qui, sans monter à cheval, est, jusqu'à douze ans, resté à l'école, n'est plus bon qu'à faire un prêtre.",
+        "correction": {
+            "axes_semantiques": [
+                {
+                    "axe": "(niveau d'instruction)",
+                    "disjonction": [
+                        {
+                            "terme_a": "(ne pas avoir été à l'école)",
+                            "indice_valeur_a": null,
+                            "terme_b": "rester à l'école jusqu'à 12 ans",
+                            "indice_valeur_b": null
+                        },
+                        {
+                            "terme_a": "sans monter à cheval",
+                            "indice_valeur_a": null,
+                            "terme_b": "savoir monter à cheval",
+                            "indice_valeur_b": null
+                        },
+                        {
+                            "terme_a": "devenir prêtre",
+                            "indice_valeur_a": null,
+                            "terme_b": "devenir autre chose que prêtre",
+                            "indice_valeur_b": null
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "exercise": 23,
+        "material": "(extrait de la synthèse des travaux de la commission des aînés au congrès de la Ligue des Familles, octobre 1986) Les grands-mères d'aujourd'hui ne sont plus les grands-mères d'hier (...). Leur présent est souvent rempli par d'autres activités que les seules tâches ménagères et familiales. Si elles ont exercé une activité professionnelle, elles ne sont peut-être pas encore retraitées, si elles ont pris leur retraite ou leur préretraite, elles ont en général des projets d'activité sociale ou culturelle et ne désirent pas souvent être coincées à la maison en se transformant en gardienne d'enfants. Si elles ont eu une vie de femme au foyer, elles n'ont pas toujours envie de recommencer à pouponner comme dans le passé : (...) elles veulent vivre enfin pour elles-mêmes.",
+        "correction": {
+            "axes_semantiques": [
+                {
+                    "axe": "(ce qui occupe le présent de nos grands-mères)",
+                    "disjonction": [
+                        {
+                            "terme_a": "les seules tâches ménagerès et familiales",
+                            "indice_valeur_a": null,
+                            "terme_b": "les tâches ménagerès et familiales et d'autres activités",
+                            "indice_valeur_b": null
+                        }
+                    ]
+                },
+                {
+                    "axe": "les grands-mères",
+                    "disjonction": [
+                        {
+                            "terme_a": "d'hier",
+                            "indice_valeur_a": null,
+                            "terme_b": "d'aujourd'hui",
+                            "indice_valeur_b": null
+                        }
+                    ]
+                },
+                {
+                    "axe": null,
+                    "disjonction": [
+                        {
+                            "terme_a": "qui ont exercé une activité professionnelle",
+                            "indice_valeur_a": null,
+                            "terme_b": "par encore retraitées",
+                            "indice_valeur_b": null
+                        }
+                    ]
+                },
+                {
+                    "axe": null,
+                    "disjonction": [
+                        {
+                            "terme_a": "en retraite ou en pré-retraite",
+                            "indice_valeur_a": null,
+                            "terme_b": "en général",
+                            "indice_valeur_b": "pas souvent"
+                        }
+                    ]
+                },
+                {
+                    "axe": "project d'activité sociale ou culturelle",
+                    "disjonction": [
+                        {
+                            "terme_a": "project d'activité sociale ou culturelle",
+                            "indice_valeur_a": null,
+                            "terme_b": "(pas de project d'activité sociales ou culturelle)",
+                            "indice_valeur_b": null
+                        }
+                    ]
+                },
+                {
+                    "axe": "le désire des grands-mères",
+                    "disjonction": [
+                        {
+                            "terme_a": "(ne pas être coincée)",
+                            "indice_valeur_a": null,
+                            "terme_b": "être coincée",
+                            "indice_valeur_b": null
+                        }
+                    ]
+                },
+                {
+                    "axe": null,
+                    "disjonction": [
+                        {
+                            "terme_a": "qui ont eu une vie de femme au foyer",
+                            "indice_valeur_a": null,
+                            "terme_b": "pas toujours",
+                            "indice_valeur_b": "(parfois)"
+                        }
+                    ]
+                },
+                {
+                    "axe": null,
+                    "disjonction": [
+                        {
+                            "terme_a": "envie de pouponner",
+                            "indice_valeur_a": null,
+                            "terme_b": "(pas envie de pouponner)",
+                            "indice_valeur_b": null
+                        }
+                    ]
+                },
+                {
+                    "axe": null,
+                    "disjonction": [
+                        {
+                            "terme_a": "vivre pour les autres",
+                            "indice_valeur_a": null,
+                            "terme_b": "vivre pour elles-mêmes",
+                            "indice_valeur_b": null
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "exercise": 24,
+        "material": "(dicton) Ce qui est bref et bon est deux fois bon.",
+        "correction": {
+            "axes_semantiques": [
+                {
+                    "axe": "ce qui est",
+                    "disjonction": [
+                        {
+                            "terme_a": "(mauvais)",
+                            "indice_valeur_a": "-",
+                            "terme_b": "bon",
+                            "indice_valeur_b": "+"
+                        },
+                        {
+                            "terme_a": "(long)",
+                            "indice_valeur_a": "-",
+                            "terme_b": "bref",
+                            "indice_valeur_b": "+"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "exercise": 25,
+        "material": "(publicité électorale du parti communiste aux élections législatives de novembre 1981 en Belgique) Un vote blanc, c’est un blanc-seing à la politique que vous voulez condamner. Mais il y a d’autres manières de voter blanc, sans le vouloir. Par exemple, si vous votez pour un candidat qui dit blanc et qui fait noir, c’est comme si vous votiez blanc. Il y a même aujourd’hui une manière verte de voter blanc... Alors, si vous voulez éviter de rire jaune après le 8 novembre, il vous est recommandé, à titre exceptionnel, de voir rouge ce jour-là.",
+        "correction": {
+            "axes_semantiques": [
+                {
+                    "axe": "votes",
+                    "disjonction": [
+                        {
+                            "terme_a": "(votes de ceux qui soutiennent la politique)",
+                            "indice_valeur_a": "-",
+                            "terme_b": "votes de ceux qui condamnent la politique",
+                            "indice_valeur_b": "-"
+                        }
+                    ]
+                },
+                {
+                    "axe": "votes de ceux qui condamnent la politique",
+                    "disjonction": [
+                        {
+                            "terme_a": "(désapprobation)",
+                            "indice_valeur_a": "+",
+                            "terme_b": "blanc-seing",
+                            "indice_valeur_b": "-"
+                        },
+                        {
+                            "terme_a": "votes rouges",
+                            "indice_valeur_a": "+",
+                            "terme_b": "votes blancs",
+                            "indice_valeur_b": "-"
+                        }
+                    ]
+                },
+                {
+                    "axe": "votes blancs",
+                    "disjonction": [
+                        {
+                            "terme_a": "sans le vouloir",
+                            "indice_valeur_a": "-",
+                            "terme_b": "(intentionellement)",
+                            "indice_valeur_b": "+"
+                        }
+                    ]
+                },
+                {
+                    "axe": "sans le vouloir",
+                    "disjonction": [
+                        {
+                            "terme_a": "de tous temps",
+                            "indice_valeur_a": "+--",
+                            "terme_b": "aujourd'hui",
+                            "indice_valeur_b": "+--"
+                        },
+                        {
+                            "terme_a": "votes pour un candidat qui dit blanc et qui fait noir",
+                            "indice_valeur_a": "+--",
+                            "terme_b": "manière verte",
+                            "indice_valeur_b": "+--"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "exercise": 26,
+        "material": "(extrait de l’interview d’une institutrice en formation continue, in Charlier, op. cit.) Il y a trois sortes de gens. Il y a des gens qui ont décidé qu’ils ne bougeraient jamais plus. Il y a des gens qui se posent des questions très souvent, mais qui n’ont pas de réponses et qui n’osent pas aller voir où se trouvent les réponses, et puis il y a des gens qui cherchent et qui ont envie de trouver des réponses.",
+        "correction": {
+            "axes_semantiques": [
+                {
+                    "axe": "les sortes de gens",
+                    "disjonction": [
+                        {
+                            "terme_a": "qui ont décidé qu'ils ne bougeraient jamais plus",
+                            "indice_valeur_a": "-",
+                            "terme_b": "(qui veulent se remettre en question)",
+                            "indice_valeur_b": "+"
+                        }
+                    ]
+                },
+                {
+                    "axe": "(qui veulent se remettre en question)",
+                    "disjonction": [
+                        {
+                            "terme_a": "qui n'osent pas chercher les réponses",
+                            "indice_valeur_a": "-",
+                            "terme_b": "qui vont trouver les réponses en formation",
+                            "indice_valeur_b": "+"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "exercise": 27,
+        "material": "(interview de Patrick Bruel) II y a des films populaires qui sont moins dignes que d'autres, mais pour être un bon film, il laut aussi plaire au public. Pas seulement à quelques spécialistes",
+        "correction": {
+            "axes_semantiques": [
+                {
+                    "axe": null,
+                    "disjonction": [
+                        {
+                            "terme_a": "plaît au public",
+                            "indice_valeur_a": null,
+                            "terme_b": "(ne plaît pas au public)",
+                            "indice_valeur_b": null
+                        },
+                        {
+                            "terme_a": "plaît aux spécialistes",
+                            "indice_valeur_a": null,
+                            "terme_b": "(ne plaît pas aux spécialistes)",
+                            "indice_valeur_b": null
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "exercise": 28,
+        "material": "(Le Monde, 10 mars 1993) Acheter à Moscou : Avant, le peu qu'il y avait, on pouvait se l'offrir. Maintenant, il y a tout, mais nous n'avons plus les moyens de nous le payer.",
+        "correction": {
+            "axes_semantiques": [
+                {
+                    "axe": null,
+                    "disjonction": [
+                        {
+                            "terme_a": "ne pas pouvoir se l'offrir",
+                            "indice_valeur_a": null,
+                            "terme_b": "avoir les moyens se le payer",
+                            "indice_valeur_b": null
+                        },
+                        {
+                            "terme_a": "peu",
+                            "indice_valeur_a": null,
+                            "terme_b": "tout",
+                            "indice_valeur_b": null
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "exercise": 29,
+        "material": "(extrait du tract électoral d'un candidat socialiste pour les élections communales à Namur en 1982) Oui à l'écologie sérieuse et réfléchie : - l'écologie ne doit pas être une mode, mais une action continue et sérieuse; - pas de belles promesses, ni de rêves; - mais des faits inscrits sur le terrain.",
+        "correction": {
+            "axes_semantiques": [
+                {
+                    "axe": "les écologies",
+                    "disjonction": [
+                        {
+                            "terme_a": "celle qui doit être",
+                            "indice_valeur_a": "+",
+                            "terme_b": "(celle qui ne doit être)",
+                            "indice_valeur_b": "-"
+                        }
+                    ]
+                },
+                {
+                    "axe": "(durée)",
+                    "disjonction": [
+                        {
+                            "terme_a": "action continue",
+                            "indice_valeur_a": "+",
+                            "terme_b": "mode",
+                            "indice_valeur_b": "-"
+                        }
+                    ]
+                },
+                {
+                    "axe": "(les degrés de sérieux)",
+                    "disjonction": [
+                        {
+                            "terme_a": "sérieuse",
+                            "indice_valeur_a": "+",
+                            "terme_b": "(farfuelue)",
+                            "indice_valeur_b": "-"
+                        }
+                    ]
+                },
+                {
+                    "axe": "(les types de démarche)",
+                    "disjonction": [
+                        {
+                            "terme_a": "action",
+                            "indice_valeur_a": "+",
+                            "terme_b": "belles promesses",
+                            "indice_valeur_b": "-"
+                        }
+                    ]
+                },
+                {
+                    "axe": "(les degrés de réalité",
+                    "disjonction": [
+                        {
+                            "terme_a": "des faits inscrits sur le terrain",
+                            "indice_valeur_a": "+",
+                            "terme_b": "des rêves",
+                            "indice_valeur_b": "-"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "exercise": 30,
+        "material": "(Le Monde, 10 mars 1993) Acheter à Moscou : Avant, le peu qu'il y avait, on pouvait se l'offrir. Maintenant, il y a tout, mais nous n'avons plus les moyens de nous le payer.",
+        "correction": {
+            "axes_semantiques": [
+                {
+                    "axe": "(les époques)",
+                    "disjonction": [
+                        {
+                            "terme_a": "avant",
+                            "indice_valeur_a": null,
+                            "terme_b": "maintenant",
+                            "indice_valeur_b": null
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "exercise": 31,
+        "material": "(publicité) Les trains auto-couchette. Dormez, nous conduisons.",
+        "correction": {
+            "axes_semantiques": [
+                {
+                    "axe": null,
+                    "disjonction": [
+                        {
+                            "terme_a": "nous conduisons",
+                            "indice_valeur_a": null,
+                            "terme_b": "(vous conduisez)",
+                            "indice_valeur_b": null
+                        },
+                        {
+                            "terme_a": "vous dormez",
+                            "indice_valeur_a": null,
+                            "terme_b": "(vous ne dormez pas)",
+                            "indice_valeur_b": null
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "exercise": 32,
+        "material": "(extrait d'interview d'un jeune pour une enquête sur les usages sociaux du téléphone, in Bardin, 1989) Le téléphone est d'abord plus rapide et plus sûr que les lettres qui se perdent ou arrivent trop tard. De plus, le téléphone permet de dévoiler son caractère plutôt que son physique. Je dis ça pour les embauches : au téléphone, on ne juge pas sur la tête de la personne, mais vraiment sur son intérieur : intelligence, façon de s'exprimer,…",
+        "correction": {
+            "axes_semantiques": [
+                {
+                    "axe": "(degrés d'efficacité)",
+                    "disjonction": [
+                        {
+                            "terme_a": "(efficace)",
+                            "indice_valeur_a": "+",
+                            "terme_b": "(pas efficace)",
+                            "indice_valeur_b": "-"
+                        }
+                    ]
+                },
+                {
+                    "axe": "(aspect de soi prédominant)",
+                    "disjonction": [
+                        {
+                            "terme_a": "intérieur",
+                            "indice_valeur_a": "+",
+                            "terme_b": "(apparence)",
+                            "indice_valeur_b": "-"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "exercise": 33,
+        "material": "(publicité) Mousseux Jacques DELUZE. Faites pétiller le quotidien.",
+        "correction": {
+            "axes_semantiques": [
+                {
+                    "axe": null,
+                    "disjonction": [
+                        {
+                            "terme_a": "le quotidien",
+                            "indice_valeur_a": null,
+                            "terme_b": "(les grandes occasions)",
+                            "indice_valeur_b": null
+                        }
+                    ]
+                },
+                {
+                    "axe": null,
+                    "disjonction": [
+                        {
+                            "terme_a": "pétiller",
+                            "indice_valeur_a": "+",
+                            "terme_b": "(ne pas pétiller)",
+                            "indice_valeur_b": "-"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "exercise": 34,
+        "material": "(extrait d'un discours de G. Deprez président du P.S.C. lors du congrès de Mouscron en 1983) S'il n'y a pas d'avenir dans le démantèlement, il n'y en a pas non plus dans la nostalgie (...). Le fédéralisme, ce n'est pas seulement l'autonomie, c'est aussi l'union; ce n'est pas seulement le régional, c'est aussi le national. Nous sommes des fédéralistes d'union.",
+        "correction": {
+            "axes_semantiques": [
+                {
+                    "axe": "(le status des régions)",
+                    "disjonction": [
+                        {
+                            "terme_a": "autonomie",
+                            "indice_valeur_a": "+",
+                            "terme_b": "(dépendance)",
+                            "indice_valeur_b": "-"
+                        }
+                    ]
+                },
+                {
+                    "axe": "(les attitudes par rapport au régional)",
+                    "disjonction": [
+                        {
+                            "terme_a": "prendre en compte le régional",
+                            "indice_valeur_a": "+",
+                            "terme_b": "(ne pas prendre en compte le régional)",
+                            "indice_valeur_b": "-"
+                        }
+                    ]
+                },
+                {
+                    "axe": "(les rapports entre Belges)",
+                    "disjonction": [
+                        {
+                            "terme_a": "union",
+                            "indice_valeur_a": "+",
+                            "terme_b": "(division)",
+                            "indice_valeur_b": "-"
+                        }
+                    ]
+                },
+                {
+                    "axe": "les attitudes par rapport au national",
+                    "disjonction": [
+                        {
+                            "terme_a": "prendre en compte le national",
+                            "indice_valeur_a": "+",
+                            "terme_b": "(ne pas prendre en compte le national)",
+                            "indice_valeur_b": "-"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "exercise": 35,
+        "material": "(interview d'une assistante sociale) Enfin, je suis pour le moment dans une phase où j'ai envie de dire que c'est parfois bon de secouer les gens dans un premier temps, et d'être parfois directif, même au niveau financier, les serrer peut-être fort et avoir peut-être des attitudes un peu directives si, dans un second temps, ça permet de relâcher un peu les rênes et de les rendre à ce moment-là plus responsables. Je dis, à partir du moment où il y a l'intérêt des enfants qui est en jeu, j'ai envie de dire que c'est discutable, cette notion de responsabilité, d'autonomie des gens.",
+        "correction": {
+            "axes_semantiques": [
+                {
+                    "axe": null,
+                    "disjonction": [
+                        {
+                            "terme_a": "relâcher un peu les rênes dans un second temps",
+                            "indice_valeur_a": "+",
+                            "terme_b": "(maintenir les rênes dans un second temps)",
+                            "indice_valeur_b": "-"
+                        }
+                    ]
+                },
+                {
+                    "axe": null,
+                    "disjonction": [
+                        {
+                            "terme_a": "être directif dans un premier temps serrer",
+                            "indice_valeur_a": "+",
+                            "terme_b": "(être non-directif dans un premier temps)",
+                            "indice_valeur_b": "-"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "exercise": 36,
+        "material": "(extrait d'une publicité) Le théâtre en Belgique vous offre souvent l'occasion de rire bêtement ou de vous ennuyer intelligemment (...).",
+        "correction": {
+            "axes_semantiques": [
+                {
+                    "axe": null,
+                    "disjonction": [
+                        {
+                            "terme_a": "rire",
+                            "indice_valeur_a": "+",
+                            "terme_b": "s'ennuyer",
+                            "indice_valeur_b": "-"
+                        }
+                    ]
+                },
+                {
+                    "axe": null,
+                    "disjonction": [
+                        {
+                            "terme_a": "intelligemment",
+                            "indice_valeur_a": "+",
+                            "terme_b": "bêtement",
+                            "indice_valeur_b": "-"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "exercise": 37,
+        "material": "(citation prêtée à Goethe par R. Fenaux dans une « carte blanche » du journal « Le Soir », citée par Hiernaux, 1995) Mieux vaut une injustice qu'un désordre.",
+        "correction": {
+            "axes_semantiques": [
+                {
+                    "axe": null,
+                    "disjonction": [
+                        {
+                            "terme_a": "(justice)",
+                            "indice_valeur_a": "+",
+                            "terme_b": "injustice",
+                            "indice_valeur_b": "-"
+                        }
+                    ]
+                },
+                {
+                    "axe": null,
+                    "disjonction": [
+                        {
+                            "terme_a": "(ordre)",
+                            "indice_valeur_a": "+",
+                            "terme_b": "désordre",
+                            "indice_valeur_b": "-"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "exercise": 38,
+        "material": "(résumé de la fable de Mandeville, in Dumont 1977) Une ruche, miroir de la société humaine, vit dans la corruption et la prospérité. Elle éprouve une certaine nostalgie de la vertu, et prie pour la retrouver. Lorsque la prière est exaucée, une transformation extraordinaire a lieu : avec le vice disparaissent activité et prospérité, remplacées par l'inactivité, la pauvreté et l'ennui, dans une population fort réduite.",
+        "correction": {
+            "axes_semantiques": [
+                {
+                    "axe": "(les degrés de moralité)",
+                    "disjonction": [
+                        {
+                            "terme_a": "vertu",
+                            "indice_valeur_a": "+",
+                            "terme_b": "(vice)",
+                            "indice_valeur_b": "-"
+                        }
+                    ]
+                },
+                {
+                    "axe": "(les situations économiques)",
+                    "disjonction": [
+                        {
+                            "terme_a": "(prospeérité)",
+                            "indice_valeur_a": "+",
+                            "terme_b": "pauvreté",
+                            "indice_valeur_b": "-"
+                        }
+                    ]
+                },
+                {
+                    "axe": "(les degrés d'activité)",
+                    "disjonction": [
+                        {
+                            "terme_a": "(activité)",
+                            "indice_valeur_a": "+",
+                            "terme_b": "inactivité",
+                            "indice_valeur_b": "-"
+                        }
+                    ]
+                },
+                {
+                    "axe": "les volumes de population",
+                    "disjonction": [
+                        {
+                            "terme_a": "(abondant)",
+                            "indice_valeur_a": "+",
+                            "terme_b": "fort réduit",
+                            "indice_valeur_b": "-"
+                        }
+                    ]
+                },
+                {
+                    "axe": "(les degrés d'intérêt)",
+                    "disjonction": [
+                        {
+                            "terme_a": "(intérêt)",
+                            "indice_valeur_a": "+",
+                            "terme_b": "ennui",
+                            "indice_valeur_b": "-"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+]
