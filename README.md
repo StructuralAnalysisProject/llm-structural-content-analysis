@@ -123,11 +123,9 @@ Analysez le texte suivant :
 
 Evaluation dataset of exercises provided by Piret, Nizet & Bourgueois (1996) it's abiable in the [sca_eval_dataset.json](https://github.com/StructuralAnalysisProject/llm-structural-content-analysis/blob/main/sca_eval_dataset.json)
 
-| Piret, A., Nizet, J., & Bourgeois, E. (1996). L'analyse structurale. Une méthode d'analyse de contenu pour les sciences humaines, Bruxelles, De Boeck. https://researchportal.unamur.be/en/publications/lanalyse-structurale-une-m%C3%A9thode-danalyse-de-contenu-pour-les-sci
+> Piret, A., Nizet, J., & Bourgeois, E. (1996). L'analyse structurale. Une méthode d'analyse de contenu pour les sciences humaines, Bruxelles, De Boeck. https://researchportal.unamur.be/en/publications/lanalyse-structurale-une-m%C3%A9thode-danalyse-de-contenu-pour-les-sci
 
-Data Schema Description:
-
-The schema of the dataset is organized as follows:
+The schema of the evaluation dataset is organized as follows:
 
 'exercise' (integer)
 A unique identifier for the exercise. Each entry corresponds to a distinct text fragment analyzed.
@@ -158,6 +156,8 @@ The second pole of the opposition.
 
 'indice_valeur_b' (string)
 Value index for terme_b, analogous to indice_valeur_a.
+
+
 
 ## Evaluation code
 
