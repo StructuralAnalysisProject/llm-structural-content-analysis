@@ -13,7 +13,7 @@ with open('sca_eval_dataset.json', 'r', encoding='utf-8') as file:
 
 iteration = 1 # or the one that you want to analyze between 1, 2 or 3.
 
-with open(f"models_inference_dataset_iteation_{iteration}.json", 'r', encoding='utf-8') as file:
+with open(f"models_inference_dataset_iteration_{iteration}.json", 'r', encoding='utf-8') as file:
     analysis_data = json.load(file)
 
 model = SentenceTransformer("dbmdz/bert-base-french-europeana-cased") # Be careful! this need CUDA or would take too much time.
