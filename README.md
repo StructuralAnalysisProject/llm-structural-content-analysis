@@ -10,7 +10,7 @@ The prompt used in the study can be found at [inference.py](https://github.com/S
 ## Evaluation dataset
 
 
-Evaluation dataset of exercises provided by Piret, Nizet & Bourgueois (1996) it's abiable in the [sca_eval_dataset.json](https://github.com/StructuralAnalysisProject/llm-structural-content-analysis/blob/main/sca_eval_dataset.json)
+Evaluation dataset of exercises provided by Piret, Nizet & Bourgueois (1996) it's available in the [sca_eval_dataset.json](https://github.com/StructuralAnalysisProject/llm-structural-content-analysis/blob/main/sca_eval_dataset.json)
 
 > Piret, A., Nizet, J., & Bourgeois, E. (1996). L'analyse structurale. Une méthode d'analyse de contenu pour les sciences humaines, Bruxelles, De Boeck. https://researchportal.unamur.be/en/publications/lanalyse-structurale-une-m%C3%A9thode-danalyse-de-contenu-pour-les-sci
 
