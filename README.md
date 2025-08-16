@@ -2,7 +2,7 @@
 
 ## Prompt
 
-The prompt used in the study can be found at [inference.py](https://github.com/StructuralAnalysisProject/llm-structural-content-analysis/blob/521b09ec196239a14e9d68de2b5a7fed2908de86/inference.py). It can be used on both the evaluation dataset and new documents to be analyzed.
+The prompt used in the study can be found at [inference.py](inference.py). It can be used on both the evaluation dataset and new documents to be analyzed.
 
 
 
@@ -49,8 +49,8 @@ Value index for terme_b, analogous to indice_valeur_a.
 ## Inference datasets
 
 Inference loops were runned one by one, so it's results are in three different files:
-* Iteration 1: [models_inference_dataset_iteation_1.json](https://github.com/StructuralAnalysisProject/llm-structural-content-analysis/blob/1e00019d7276582170d166707bffbb6f6a1becb0/models_inference_dataset_iteation_1.json)
-* Iteration 2: [models_inference_dataset_iteation_1.json](https://github.com/StructuralAnalysisProject/llm-structural-content-analysis/blob/1e00019d7276582170d166707bffbb6f6a1becb0/models_inference_dataset_iteation_2.json)
+* Iteration 1: [models_inference_dataset_iteation_1.json](models_inference_dataset_iteation_1.json)
+* Iteration 2: [models_inference_dataset_iteation_1.json](models_inference_dataset_iteation_2.json)
 * Iteration 3: [models_inference_dataset_iteation_1.json](models_inference_dataset_iteation_3.json)
 
 ## Evaluation code
