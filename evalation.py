@@ -135,6 +135,36 @@ df = pd.DataFrame(index=existing_exercises, columns=models)
 
 
 ############################
+
+
+def inspect_structure(data_item, prefix=""):
+    if isinstance(data_item, dict):
+        for key, value in data_item.items():
+            print(f"{prefix}Key: {key}")
+            if isinstance(value, (dict, list)):
+                inspect_structure(value, prefix + "  ")
+    elif isinstance(data_item, list):
+        print(f"{prefix}List with {len(data_item)} items")
+        if len(data_item) > 0:
+            inspect_structure(data_item[0], prefix + "  ")
+
+
+
+def find_analysis_for_model_and_exercise(analysis_data, target_model, target_exercise):
+    for model_data in analysis_data:
+        if model_data.get('model') == target_model:
+            for exercise_data in model_data.get('model_analysis', []):
+                # Check if 'exercise' key exists before attempting to access it
+                if 'exercise' in exercise_data and int(exercise_data['exercise']) == target_exercise:
+                    print(f"\nFound exercise data structure:")
+                    inspect_structure(exercise_data)
+                    return exercise_data
+                elif 'exercise' not in exercise_data:
+                    print(f"\nWarning: Exercise data missing 'exercise' key. Available keys: {list(exercise_data.keys())}")
+    
+    print(f"\nNo matching data found for model '{target_model}' and exercise {target_exercise}")
+    return None
+
 ############################
 
 def find_ground_truth(data, target_exercise):
