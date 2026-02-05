@@ -56,8 +56,3 @@ Inference loops were runned one by one, so it's results are in three different f
 ## Evaluation
 
 As explained in the paper, the assessment uses cosine similarity to measure the semantic overlap between the LLM-generated analysis and the ground truth. The code provided in [evaluation.py](evaluation.py) implements this process, handling differences in data schemas in the [evaluation dataset](sca_eval_dataset.json) and the [model inference dataset](models_inference_dataset_iteration_1.json). To obtain embeddings of both the ground truth and the model analysis, it uses a BERT model ([`dbmdz/bert-base-french-europeana-cased`](https://huggingface.co/dbmdz/bert-base-french-europeana-cased)), which requires a GPU to run efficiently. Otherwise, the process will take too long.
-
-
-
-
-
